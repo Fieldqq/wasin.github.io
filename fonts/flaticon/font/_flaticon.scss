@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 04/09/2020 12:50
+    Creation date: 04/09/2020 13:05
     */
 
     @font-face {
@@ -43,6 +43,7 @@
 .flaticon-headphones:before { content: "\f103"; }
 .flaticon-camera:before { content: "\f104"; }
 .flaticon-money:before { content: "\f105"; }
+.flaticon-favorite:before { content: "\f106"; }
     
     $font-Flaticon-game-controller: "\f100";
     $font-Flaticon-beer: "\f101";
@@ -50,3 +51,4 @@
     $font-Flaticon-headphones: "\f103";
     $font-Flaticon-camera: "\f104";
     $font-Flaticon-money: "\f105";
+    $font-Flaticon-favorite: "\f106";

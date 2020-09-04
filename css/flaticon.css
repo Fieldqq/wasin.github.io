@@ -36,10 +36,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-ideas:before { content: "\f100"; }
+/* .flaticon-ideas:before { content: "\f100"; }
 .flaticon-flasks:before { content: "\f101"; }
 .flaticon-analysis:before { content: "\f102"; }
 .flaticon-ux-design:before { content: "\f103"; }
 .flaticon-web-design:before { content: "\f104"; }
 .flaticon-idea:before { content: "\f105"; }
-.flaticon-innovation:before { content: "\f106"; }
+.flaticon-innovation:before { content: "\f106"; } */
+
+.flaticon-game-controller:before { content: "\f100"; }
+.flaticon-beer:before { content: "\f101"; }
+.flaticon-around:before { content: "\f102"; }
+.flaticon-headphones:before { content: "\f103"; }
+.flaticon-camera:before { content: "\f104"; }
+.flaticon-money:before { content: "\f105"; }
+.flaticon-favorite:before { content: "\f106"; }
